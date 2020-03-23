@@ -10,9 +10,9 @@ Nama Kota dan Nama Provinsi
 
 
 Example :
-lat = -6.59802
+lat = -6.59802 <br>
 long = 106.79743
 
-output :
-kota = Kelurahan Pabaton
+output : <br>
+kota = Kelurahan Pabaton <br>
 provinsi = Jawa Barat
